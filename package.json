@@ -1,7 +1,7 @@
 {
 	"name": "template-loader-lcov-fix",
 	"description": "Fixes the URL paths in an LCOV file output with for angular2-template-loader",
-	"version": "0.1.1",
+	"version": "0.1.2",
 
 	"author": "Brian Ghigiarelli",
 	"copyright": "Copyright 2017 - All Rights Reserved.",
