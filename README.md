@@ -5,7 +5,7 @@
 [![Test Coverage](https://codeclimate.com/github/brianghig/template-loader-lcov-fix/badges/coverage.svg)](https://codeclimate.com/github/brianghig/template-loader-lcov-fix/coverage)
 [![standard-readme compliant](https://img.shields.io/badge/standard--readme-OK-green.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
 
-> Template project for a node module
+> Transform module for changing the file paths of LCOV source files within an LCOV file that uses the angular2-template-loader for code coverage. Handles individual calls or streams (e.g., stdin and stdout).
 
 ## Table of Contents
 
@@ -17,7 +17,7 @@
 - [License](#license)
 
 ## Use
-To use this template, install it and integrate it into your code coverage publishing pipeline.
+To use this module, install it and integrate it into your code coverage publishing pipeline.
 
 See the gulpfile for tasks related to building the module.
 
