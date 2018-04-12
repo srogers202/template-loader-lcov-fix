@@ -12,11 +12,6 @@
 		"url": "https://github.com/brianghig/template-loader-lcov-fix.git"
 	},
 
-	"engines": {
-		"node": "<6.9",
-		"npm": "<3.3.10"
-	},
-
 	"bin": {
 		"template-loader-lcov-fix": "./src/stream-transform.js"
 	},
